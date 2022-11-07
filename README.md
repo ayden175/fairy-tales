@@ -2,18 +2,12 @@
 
 This repository is part of the course "Understanding Language with Computers" from group 冰激凌.
 
-
-
 ## Structure
 
-Each folder contains several textfiles, which each contain one fairy tale. The name of the folder corresponds to the author or the generator that was used. The filename corresponds to the name of the fairy tale.
-
-
+Each folder contains fairy tales by the author corresponding to the folder name.  Each textfile contains one fairy tale, and the filename corresponds to the name of the fairy tale.
 
 ## Sources
 
-The non-generated fairy tales are taken from [World of Tales](https://www.worldoftales.com/fairy_tales.html#gsc.tab=0). 
+The fairy tales by Grimm are taken from [Grimmstories.com](https://www.grimmstories.com/en/grimm_fairy-tales/list).
 
-The generated fairy tales were generated with TODO.
-
-
+The fairy tales by Andersen are taken from [SDU H.C. Andersen Centret](https://andersen.sdu.dk/vaerk/hersholt/index_e.html).
