@@ -42,18 +42,12 @@ class AnnotatorWindow(QtWidgets.QMainWindow):
             self.characters_layout.itemAt(j+2).itemAt(1).widget().setChecked(False)
         checkbox.setChecked(True)
 
-        print(cfg.char_lists)
         for j in range(self.characters_layout.count()-4):
             if self.characters_layout.itemAt(j+2).itemAt(1).widget() == checkbox:
                 name = self.characters_layout.itemAt(j+2).itemAt(2).widget()
 
                 for char in cfg.char_lists:
-                    print("-------------")
-                    print(char['name'])
-                    print(name)
                     if char['name'] == name:
-                        print('found')
-                        print(char)
                         cfg.active_char = char
                         return
 
@@ -124,22 +118,6 @@ class AnnotatorWindow(QtWidgets.QMainWindow):
                 msg.setStandardButtons(QtWidgets.QMessageBox.Ok)
                 msg.exec_()
                 return
-
-        names = []
-        for char in cfg.char_lists:
-            if len(char['buttons']) > 0:
-                names.append(char['name'].text().lower().strip())
-
-        if len(names) != len(set(names)):
-            msg = QtWidgets.QMessageBox()
-            msg.setWindowIcon(QtGui.QIcon('annotator/unicorn.png'))
-            msg.setIcon(QtWidgets.QMessageBox.Information)
-            msg.setText("There are duplicate names.")
-            msg.setInformativeText("All characters must have a unique name. Please give every used charactera a unique name before saving.")
-            msg.setWindowTitle("Duplicate names")
-            msg.setStandardButtons(QtWidgets.QMessageBox.Ok)
-            msg.exec_()
-            return
 
         self.check_buttons()
         if not cfg.unsaved_changes:
