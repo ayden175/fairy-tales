@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>934</width>
-    <height>670</height>
+    <width>1068</width>
+    <height>742</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,7 +17,7 @@
    <locale language="English" country="Germany"/>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <layout class="QHBoxLayout" name="horizontalLayout_5">
+   <layout class="QVBoxLayout" name="verticalLayout_3">
     <item>
      <layout class="QHBoxLayout" name="horizontalLayout" stretch="3,0,2">
       <property name="leftMargin">
@@ -42,19 +42,20 @@
          </widget>
         </item>
         <item>
-         <widget class="QTextBrowser" name="fairy_tale_text">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
+         <widget class="QScrollArea" name="fairy_tale_text">
+          <property name="widgetResizable">
+           <bool>true</bool>
           </property>
-          <property name="minimumSize">
-           <size>
-            <width>300</width>
-            <height>200</height>
-           </size>
-          </property>
+          <widget class="QWidget" name="textScrollArea">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>611</width>
+             <height>619</height>
+            </rect>
+           </property>
+          </widget>
          </widget>
         </item>
         <item>
@@ -122,8 +123,8 @@
             <rect>
              <x>0</x>
              <y>0</y>
-             <width>354</width>
-             <height>570</height>
+             <width>408</width>
+             <height>642</height>
             </rect>
            </property>
            <layout class="QVBoxLayout" name="characters_layout">
@@ -140,7 +141,20 @@
              <number>0</number>
             </property>
             <item>
-             <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="2,1,0">
+             <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="0,2,1,0">
+              <item>
+               <spacer name="horizontalSpacer_2">
+                <property name="orientation">
+                 <enum>Qt::Horizontal</enum>
+                </property>
+                <property name="sizeHint" stdset="0">
+                 <size>
+                  <width>85</width>
+                  <height>20</height>
+                 </size>
+                </property>
+               </spacer>
+              </item>
               <item>
                <widget class="QLabel" name="name_label">
                 <property name="text">
@@ -193,6 +207,67 @@
              </widget>
             </item>
             <item>
+             <layout class="QHBoxLayout" name="horizontalLayout_4">
+              <item>
+               <widget class="QPushButton" name="no_char_color">
+                <property name="sizePolicy">
+                 <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+                  <horstretch>0</horstretch>
+                  <verstretch>0</verstretch>
+                 </sizepolicy>
+                </property>
+                <property name="minimumSize">
+                 <size>
+                  <width>25</width>
+                  <height>0</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>25</width>
+                  <height>16777215</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="checkable">
+                 <bool>false</bool>
+                </property>
+                <property name="autoDefault">
+                 <bool>false</bool>
+                </property>
+                <property name="default">
+                 <bool>false</bool>
+                </property>
+                <property name="flat">
+                 <bool>false</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QCheckBox" name="checkbox_no_char">
+                <property name="text">
+                 <string>Active</string>
+                </property>
+                <property name="checked">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="lineEdit">
+                <property name="text">
+                 <string>No Character</string>
+                </property>
+                <property name="readOnly">
+                 <bool>true</bool>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+            <item>
              <spacer name="verticalSpacer">
               <property name="orientation">
                <enum>Qt::Vertical</enum>
@@ -204,6 +279,13 @@
                </size>
               </property>
              </spacer>
+            </item>
+            <item>
+             <widget class="QPushButton" name="save_annotations">
+              <property name="text">
+               <string>Save Annotations</string>
+              </property>
+             </widget>
             </item>
            </layout>
           </widget>
@@ -220,36 +302,12 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>934</width>
+     <width>1068</width>
      <height>21</height>
     </rect>
    </property>
-   <widget class="QMenu" name="menuFile">
-    <property name="title">
-     <string>File</string>
-    </property>
-    <addaction name="load_annotations"/>
-    <addaction name="save_annotations"/>
-   </widget>
-   <addaction name="menuFile"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="load_annotations">
-   <property name="text">
-    <string>Load Annotations</string>
-   </property>
-   <property name="toolTip">
-    <string>Load annotations from a yaml file.</string>
-   </property>
-  </action>
-  <action name="save_annotations">
-   <property name="text">
-    <string>Save Annotations</string>
-   </property>
-   <property name="toolTip">
-    <string>Export all annotations as a yaml file.</string>
-   </property>
-  </action>
  </widget>
  <resources/>
  <connections/>
