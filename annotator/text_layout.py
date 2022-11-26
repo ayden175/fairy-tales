@@ -7,6 +7,7 @@ class TextLayout(QVBoxLayout):
         #self.setContentsMargins(0, 0, 0, 0)
         #self.rows = QVBoxLayout(self.widget())
         #self.widget().addLayout(QHBoxLayout(self.widget()))
+        self.max_width = 700
         self.setAlignment(Qt.AlignTop)
         self.all_buttons = []
         self.sizes = []
@@ -17,7 +18,7 @@ class TextLayout(QVBoxLayout):
 
     def updateLayout(self):
         #self.rows = QVBoxLayout()
-        max_width = self.parentWidget().frameGeometry().width()
+        max_width = min(self.parentWidget().frameGeometry().width(), self.max_width)
 
         for paragraph in self.all_buttons:
             self.addRow()
