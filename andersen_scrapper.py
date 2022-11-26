@@ -39,9 +39,12 @@ if __name__ == '__main__':
         content = soup.find(id='content')
         title = content.find('h2').contents[0]
         text = content.find('div', {'class' : 'tekst'}).text
+        text = text.replace('\r\n', ' ')
 
         filename = re.sub(r'[^\w]', '', title.lower().replace(' ', '_')) + '.txt'
         with open(os.path.join(folder, filename), 'w', encoding="utf-8") as f:
             f.write(text)
 
         printProgressBar(i + 1, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
+
+        

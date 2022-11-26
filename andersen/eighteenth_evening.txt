@@ -1,28 +1,4 @@
-"I have told you about Pompeii," the Moon said, "that corpse of a city which is now once
-more listed among living cities. I know another, an even stranger one; it is not a corpse, but rather the
-phantom of a city. Whenever water splashes from fountains into marble basins, I seem to hear the tale of
-the floating city. Yes, the spouting water can tell about it. The waves of the sea sing about it.
-"Over the face of the ocean there often hangs a mist - her widow's veil, for the bridegroom of
-the ocean is dead; his city and his palace are now but a mausoleum. Do you know this city? Never was the
-rattle of carriages or the clatter of horses' hoofs heard in its streets; only fish swim there, while
-the black gondola glides ghostlike over the green waters.
-"I will show you the largest square in the city, the Piazza," continued the Moon, "and
-you will imagine yourself in fairyland. The grass grows up between the broad flagstones, and in the early
-dawn thousands of tame pigeons flutter about the tall, isolated tower. There are archways about you on
-three sides, and beneath one of them sit the motionless Turk, with his long pipe, and the handsome young
-Greek, leaning against a pillar, gazing up at the trophies aloft, at the tall masts, monuments of a lost
-power. The flags hang down like mourning crape. A girl is resting there; she has set down her heavy pails
-of water, though the yoke by which she carries them is still across her shoulders; she is leaning against
-the Mast of Victory.
-"The building you see before you is not a fairy castle, but a church. The gilded domes and the
-golden balls around it glitter in my rays. Those magnificent bronze horses up there have traveled like the
-bronze horse in the fairy tale; they have journeyed to distant lands and returned. Can you see the
-brilliant colors on the walls and window panes? It is as if, at a child's plea, a fairy had decorated
-this strange temple. Can you see the winged lion upon that column? He still glitters with gold, but his
-wings are bound; the lion is dead, for the King of the Ocean is dead. The great halls are empty, and where
-gorgeous pictures once hung there are now bare walls. Beggars sleep beneath the archways, whereas once
-only great nobles were permitted to tread the pavement there. A sigh sounds from the deep dungeons, or is
-from the leaden chambers near the Bridge of Sighs, where once were heard the tambourines in the gay
-gondolas, just as they were when the wedding ring was cast from the glorious Bucentaur into the
-Adriatic, the Queen of the Ocean. Wrap yourself in your mists, O Adriatic! Cover yourself with the
-widow's veil, and let it enwrap your bridegroom's mausoleum - marble, ghostlike Venice!"
+"I have told you about Pompeii," the Moon said, "that corpse of a city which is now once more listed among living cities. I know another, an even stranger one; it is not a corpse, but rather the phantom of a city. Whenever water splashes from fountains into marble basins, I seem to hear the tale of the floating city. Yes, the spouting water can tell about it. The waves of the sea sing about it.
+"Over the face of the ocean there often hangs a mist - her widow's veil, for the bridegroom of the ocean is dead; his city and his palace are now but a mausoleum. Do you know this city? Never was the rattle of carriages or the clatter of horses' hoofs heard in its streets; only fish swim there, while the black gondola glides ghostlike over the green waters.
+"I will show you the largest square in the city, the Piazza," continued the Moon, "and you will imagine yourself in fairyland. The grass grows up between the broad flagstones, and in the early dawn thousands of tame pigeons flutter about the tall, isolated tower. There are archways about you on three sides, and beneath one of them sit the motionless Turk, with his long pipe, and the handsome young Greek, leaning against a pillar, gazing up at the trophies aloft, at the tall masts, monuments of a lost power. The flags hang down like mourning crape. A girl is resting there; she has set down her heavy pails of water, though the yoke by which she carries them is still across her shoulders; she is leaning against the Mast of Victory.
+"The building you see before you is not a fairy castle, but a church. The gilded domes and the golden balls around it glitter in my rays. Those magnificent bronze horses up there have traveled like the bronze horse in the fairy tale; they have journeyed to distant lands and returned. Can you see the brilliant colors on the walls and window panes? It is as if, at a child's plea, a fairy had decorated this strange temple. Can you see the winged lion upon that column? He still glitters with gold, but his wings are bound; the lion is dead, for the King of the Ocean is dead. The great halls are empty, and where gorgeous pictures once hung there are now bare walls. Beggars sleep beneath the archways, whereas once only great nobles were permitted to tread the pavement there. A sigh sounds from the deep dungeons, or is from the leaden chambers near the Bridge of Sighs, where once were heard the tambourines in the gay gondolas, just as they were when the wedding ring was cast from the glorious Bucentaur into the Adriatic, the Queen of the Ocean. Wrap yourself in your mists, O Adriatic! Cover yourself with the widow's veil, and let it enwrap your bridegroom's mausoleum - marble, ghostlike Venice!"

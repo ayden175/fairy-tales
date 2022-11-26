@@ -1,431 +1,83 @@
-Near the river Gudenaa in the forest of Silkeborg, a great
-ridge of land rises. This ridge is called Aasen, and it resembles
-a large ball. Below it, on the western side, stands a little
-farmhouse surrounded by very poor land; in fact, the sand of the
-soil can be seen through the sparse rye and wheat that grow
-there.
-We are speaking of a time some years ago, when the
-people who lived there cultivated the fields, and kept three
-sheep, a pig, and two oxen. To put it briefly, they supported
-themselves very well, with enough to live on if they took things
-in their stride; yes, and they were even well enough off to have
-kept a couple of horses, but, like the neighboring farmers, they
-said, "A horse eats itself up" - it eats as much as it earns. In
-summer Jeppe-Jens cultivated his small field, and in the winter
-he made wooden shoes; and at that time he had a journeyman
-assistant who, like him, knew how to make the wooden shoes
-strong, light, and fashionable. Their carved shoes and spoons
-brought in good money, and therefore no one could call the
-Jeppe-Jenses poor people.
-Little Ib, a boy seven years old, was the only child of
-the family. He loved to sit by, watching the workmen, whittling
-at a stick, and sometimes whittling his finger. But one day he
-was so successful with two little pieces of wood that they really
-looked like tiny wooden shoes, and he decided to give them to
-little Christine.
-She was the boatman's little daughter, as graceful and
-pretty as a child of a noble family; if she had been dressed
-differently, no one would have believed that she came from the
-hut with the peat-covered roof in the neighboring hamlet of
-Seishede. Her father, a widower, lived there and supported
-himself by transporting boatloads of firewood from the forest
-down to the eel pond and weir at Silkeborg, and sometimes even
-all the way up to the town of Randers. Since there was no one at
-home to take care of little Christine, who was just a year
-younger than Ib, she nearly always went with him in his boat, or
-played among the heath plants and barberry bushes of the forest.
-But sometimes, when he had to go all the way up to Randers he
-would leave little Christine at the Jeppe-Jenses'.
-Ib and Christine got along very well together in every
-way. They shared their food and they played together; they dug in
-the ground together; they walked, they crept, they ran together.
-One day they even climbed up the high ridge, far into the forest;
-once they found some snipe's eggs, and that was a great
-event.
-Ib had never been at Seishede, where Christine's father
-lived, nor had he ever sailed down the Gudenaa. But at last this
-happened; Christine's
-father invited him to accompany them, and on the evening
-before the trip he went home with the boatman.
-Early next morning the two children were perched high
-on the big pile of faggots in the boat, eating bread and
-raspberries, while the boatman and his helper pushed them on with
-long poles. The current was with them, and they glided swiftly
-down the stream, through the lakes formed in its course.
-Sometimes they seemed shut in by woods and water reeds, but there
-was always just room for them to pass, though the old trees
-leaned out over the water and the oaks bent down their peeling
-branches as if they had rolled up their sleeves to show their
-knotted, naked arms. Ancient elder trees, washed away from the
-bank by the stream, clung with their roots to the bottom, looking
-like little wooded islets. Water lilies rocked placidly on the
-surface of the stream. It was a wonderful trip.
-At last they reached the great eel weir, where the
-water rushed through the floodgates; and to Ib and Christine this
-was a beautiful sight.
-In those days there was no manufacturing plant there,
-or even a town; there was only the old farmhouse, with a few
-servants and a few head of cattle. The roar of the water through
-the sluices and the cry of wild ducks were then the only lively
-sounds there.
-After the firewood had been unloaded, Christine's
-father bought a big bundle of eels and a slaughtered suckling pig
-and packed them all in a basket in the stern of the boat. Then
-they started back again. They were going upstream now, but the
-wind was favorable, and with the sails hoisted they went as well
-as if two horses had been harnessed to the boat.
-When they reached that point in the stream near which
-the assistant boatman lived, the boat was moored, and the two men
-went ashore, after ordering the children to be quiet and careful.
-But this they could not do, at least not for very long. They had
-to be peeping into the basket at the eels and the pig; they had
-to pull the pig out and hold it in their hands and turn it over
-and over. Then, when they both tried to hold it at the same time,
-they lost it and it slipped right into the water, and the pig
-drifted away down the stream. That was a terrible
-catastrophe!
-Ib quickly jumped ashore and began running along the
-bank, while Christine leaped after him, shouting, "Take me with
-you!"
-Soon the children disappeared in the bushes and could
-no longer see either the boat or the river. They ran on still
-farther, and then Christine fell down and began to cry. Ib picked
-her up.
+Near the river Gudenaa in the forest of Silkeborg, a great ridge of land rises. This ridge is called Aasen, and it resembles a large ball. Below it, on the western side, stands a little farmhouse surrounded by very poor land; in fact, the sand of the soil can be seen through the sparse rye and wheat that grow there.
+We are speaking of a time some years ago, when the people who lived there cultivated the fields, and kept three sheep, a pig, and two oxen. To put it briefly, they supported themselves very well, with enough to live on if they took things in their stride; yes, and they were even well enough off to have kept a couple of horses, but, like the neighboring farmers, they said, "A horse eats itself up" - it eats as much as it earns. In summer Jeppe-Jens cultivated his small field, and in the winter he made wooden shoes; and at that time he had a journeyman assistant who, like him, knew how to make the wooden shoes strong, light, and fashionable. Their carved shoes and spoons brought in good money, and therefore no one could call the Jeppe-Jenses poor people.
+Little Ib, a boy seven years old, was the only child of the family. He loved to sit by, watching the workmen, whittling at a stick, and sometimes whittling his finger. But one day he was so successful with two little pieces of wood that they really looked like tiny wooden shoes, and he decided to give them to little Christine.
+She was the boatman's little daughter, as graceful and pretty as a child of a noble family; if she had been dressed differently, no one would have believed that she came from the hut with the peat-covered roof in the neighboring hamlet of Seishede. Her father, a widower, lived there and supported himself by transporting boatloads of firewood from the forest down to the eel pond and weir at Silkeborg, and sometimes even all the way up to the town of Randers. Since there was no one at home to take care of little Christine, who was just a year younger than Ib, she nearly always went with him in his boat, or played among the heath plants and barberry bushes of the forest. But sometimes, when he had to go all the way up to Randers he would leave little Christine at the Jeppe-Jenses'.
+Ib and Christine got along very well together in every way. They shared their food and they played together; they dug in the ground together; they walked, they crept, they ran together. One day they even climbed up the high ridge, far into the forest; once they found some snipe's eggs, and that was a great event.
+Ib had never been at Seishede, where Christine's father lived, nor had he ever sailed down the Gudenaa. But at last this happened; Christine's
+father invited him to accompany them, and on the evening before the trip he went home with the boatman.
+Early next morning the two children were perched high on the big pile of faggots in the boat, eating bread and raspberries, while the boatman and his helper pushed them on with long poles. The current was with them, and they glided swiftly down the stream, through the lakes formed in its course. Sometimes they seemed shut in by woods and water reeds, but there was always just room for them to pass, though the old trees leaned out over the water and the oaks bent down their peeling branches as if they had rolled up their sleeves to show their knotted, naked arms. Ancient elder trees, washed away from the bank by the stream, clung with their roots to the bottom, looking like little wooded islets. Water lilies rocked placidly on the surface of the stream. It was a wonderful trip.
+At last they reached the great eel weir, where the water rushed through the floodgates; and to Ib and Christine this was a beautiful sight.
+In those days there was no manufacturing plant there, or even a town; there was only the old farmhouse, with a few servants and a few head of cattle. The roar of the water through the sluices and the cry of wild ducks were then the only lively sounds there.
+After the firewood had been unloaded, Christine's father bought a big bundle of eels and a slaughtered suckling pig and packed them all in a basket in the stern of the boat. Then they started back again. They were going upstream now, but the wind was favorable, and with the sails hoisted they went as well as if two horses had been harnessed to the boat.
+When they reached that point in the stream near which the assistant boatman lived, the boat was moored, and the two men went ashore, after ordering the children to be quiet and careful. But this they could not do, at least not for very long. They had to be peeping into the basket at the eels and the pig; they had to pull the pig out and hold it in their hands and turn it over and over. Then, when they both tried to hold it at the same time, they lost it and it slipped right into the water, and the pig drifted away down the stream. That was a terrible catastrophe!
+Ib quickly jumped ashore and began running along the bank, while Christine leaped after him, shouting, "Take me with you!"
+Soon the children disappeared in the bushes and could no longer see either the boat or the river. They ran on still farther, and then Christine fell down and began to cry. Ib picked her up.
 "Come on!" he said. "The house is over that way!"
-But the house was not over that way. On and on they
-walked, over dry, dead leaves and over fallen branches that
-crackled under their small feet. All of a sudden they heard a
-loud scream. They stopped and listened, and again the scream of
-an eagle sounded through the woods. It was and ugly cry, and
-frightened them, but they soon forgot it when they saw before
-them, in the thick wood, the most beautiful blueberries growing
-in unbelievably large numbers. They were so inviting that the
-children could not help stopping; and they stayed there, eating
-the blueberries until they had blue mouths and cheeks. And again
-they heard the eagle's cry.
-"We'll get a beating on account of that pig," said
-Christine.
-"Come on, let's go home," said Ib. "Our house is here
-in the woods somewhere."
-So they went on until they came to a road, but it still
-did not lead them home; then darkness settled down, and both grew
-afraid. The strange stillness around was broken now and then by
-the shrill cries of the great horned owl or other birds strange
-to them. And at last they were completely lost among some bushes.
-Then Christine cried, and Ib cried too, and after they had cried
-for some time they lay down on the dry leaves and fell fast
-asleep.
-The sun was high in the heavens when the children
-awoke. They were cold, but on the hill near their resting place
-the sun shone down through the trees, and they could warm
-themselves. Besides, Ib hoped that from there he would be able to
-see his parents' house.
-But they were really far from that house, in an
-entirely different part of the forest.
-They climbed to the top of the hill and found
-themselves on the edge of a clear, transparent lake. They could
-see innumerable fish sparkling in the rays of the sun. This view
-was a sudden and lovely surprise.
-Near them they found a bush full of the finest nuts,
-and now they picked them and cracked them and ate the delicate
-young kernels, which had only just become ripe. But there was
-still another frightening surprise in store for them.
-Out of the bushes there stepped a tall old woman whose
-face was very brown and whose hair was shining black. The whites
-of her eyes glistened like a mulatto's; on her back she carried a
-knapsack, and in her hand a knotted stick. She was a gypsy.
-At first the children couldn't understand her. Then she
-took three large nuts from her pocket and explained that these
-were wishing nuts and that in them the most wonderful things were
-hidden.
-When Ib looked at her she seemed so friendly that he
-found courage to ask her to give him the nuts. The woman handed
-them to him, and then she gathered a whole pocketful more for
-herself from the nut bush.
-Ib and Christine looked at the wishing nuts with
-wondering eyes. "Is there a carriage and horses in this nut?" he
-asked.
-"There is a carriage of gold with golden horses," said
-the woman.
+But the house was not over that way. On and on they walked, over dry, dead leaves and over fallen branches that crackled under their small feet. All of a sudden they heard a loud scream. They stopped and listened, and again the scream of an eagle sounded through the woods. It was and ugly cry, and frightened them, but they soon forgot it when they saw before them, in the thick wood, the most beautiful blueberries growing in unbelievably large numbers. They were so inviting that the children could not help stopping; and they stayed there, eating the blueberries until they had blue mouths and cheeks. And again they heard the eagle's cry.
+"We'll get a beating on account of that pig," said Christine.
+"Come on, let's go home," said Ib. "Our house is here in the woods somewhere."
+So they went on until they came to a road, but it still did not lead them home; then darkness settled down, and both grew afraid. The strange stillness around was broken now and then by the shrill cries of the great horned owl or other birds strange to them. And at last they were completely lost among some bushes. Then Christine cried, and Ib cried too, and after they had cried for some time they lay down on the dry leaves and fell fast asleep.
+The sun was high in the heavens when the children awoke. They were cold, but on the hill near their resting place the sun shone down through the trees, and they could warm themselves. Besides, Ib hoped that from there he would be able to see his parents' house.
+But they were really far from that house, in an entirely different part of the forest.
+They climbed to the top of the hill and found themselves on the edge of a clear, transparent lake. They could see innumerable fish sparkling in the rays of the sun. This view was a sudden and lovely surprise.
+Near them they found a bush full of the finest nuts, and now they picked them and cracked them and ate the delicate young kernels, which had only just become ripe. But there was still another frightening surprise in store for them.
+Out of the bushes there stepped a tall old woman whose face was very brown and whose hair was shining black. The whites of her eyes glistened like a mulatto's; on her back she carried a knapsack, and in her hand a knotted stick. She was a gypsy.
+At first the children couldn't understand her. Then she took three large nuts from her pocket and explained that these were wishing nuts and that in them the most wonderful things were hidden.
+When Ib looked at her she seemed so friendly that he found courage to ask her to give him the nuts. The woman handed them to him, and then she gathered a whole pocketful more for herself from the nut bush.
+Ib and Christine looked at the wishing nuts with wondering eyes. "Is there a carriage and horses in this nut?" he asked.
+"There is a carriage of gold with golden horses," said the woman.
 "Then give me that one!" said little Christine.
-So Ib gave it to her, and the woman tied it in the
-little girl's neckerchief for her.
-"And in this one is there a pretty little neckerchief,
-like the one Christine is wearing around her neck?" asked Ib.
-"There are ten neckerchiefs in it," replied the woman.
-"There are beautiful dresses, too, and stockings, and a hat."
+So Ib gave it to her, and the woman tied it in the little girl's neckerchief for her.
+"And in this one is there a pretty little neckerchief, like the one Christine is wearing around her neck?" asked Ib.
+"There are ten neckerchiefs in it," replied the woman. "There are beautiful dresses, too, and stockings, and a hat."
 "Then I want that one, too," said Christine.
-So little Ib gave her the second nut also. The third
-was a little black one.
-"You can keep that one," said Christine. "And it's a
-very pretty one, too."
+So little Ib gave her the second nut also. The third was a little black one.
+"You can keep that one," said Christine. "And it's a very pretty one, too."
 "What's in it?" asked Ib.
-"The best of all things for you," said the old
-gypsy.
-So Ib held onto that nut very tightly. The woman
-promised to start them on the right way to their homes; and then
-they went, but certainly in an entirely different direction than
-they should go. Yet we have no reason to suspect the gypsy woman
-of wanting to steal the children.
-In a wild part of the wood they met Chraen, the game
-warden; he knew Ib, and with his help Ib and little Christine
-finally arrived home, where everybody had been very anxious about
-them. They were forgiven, although they both really had earned a
-good beating - first, for letting the pig fall into the water,
-and, second, for running away.
-Christine went home with her father on the heath, and
-Ib remained in the little farmhouse. The first thing he did that
-evening was take from his pocket the black nut in which "the best
-of all things" was supposed to be enclosed. He placed it
-carefully between the door and the doorpost, then shut the door
-sharply. The nut cracked all right, but there was no kernel in
-it. It was what we call worm-eaten, looking as if it were filled
-with snuff or rich, black earth. 
-"That's what I thought," opined Ib. "How could there be
-room for the best of all things in this little nut? And Christine
-won't get any more out of her two nuts either, no fine clothes or
-golden carriage."
+"The best of all things for you," said the old gypsy.
+So Ib held onto that nut very tightly. The woman promised to start them on the right way to their homes; and then they went, but certainly in an entirely different direction than they should go. Yet we have no reason to suspect the gypsy woman of wanting to steal the children.
+In a wild part of the wood they met Chraen, the game warden; he knew Ib, and with his help Ib and little Christine finally arrived home, where everybody had been very anxious about them. They were forgiven, although they both really had earned a good beating - first, for letting the pig fall into the water, and, second, for running away.
+Christine went home with her father on the heath, and Ib remained in the little farmhouse. The first thing he did that evening was take from his pocket the black nut in which "the best of all things" was supposed to be enclosed. He placed it carefully between the door and the doorpost, then shut the door sharply. The nut cracked all right, but there was no kernel in it. It was what we call worm-eaten, looking as if it were filled with snuff or rich, black earth. 
+"That's what I thought," opined Ib. "How could there be room for the best of all things in this little nut? And Christine won't get any more out of her two nuts either, no fine clothes or golden carriage."
 So winter came on, and the new year began.
-Several years passed, and Ib was to be confirmed. To
-prepare for it he studied with the clergyman far off in the next
-village. It was at this time that the boatman came one day to
-visit Ib's parents and told them that little Christine was going
-to work as a servant girl and that she had been really fortunate
-in getting an unusually good position with very worthy people,
-for, just imagine, she was going to the rich innkeeper's at
-Herning, west of there. There she was to help the housekeeper,
-and later, if she did well and was confirmed there, the people
-would adopt her as their own daughter.
-So Ib and Christine parted. People were calling them
-"the sweethearts," and before she left she showed Ib that she
-still had the two nuts he had given her during their adventure in
-the forest so long ago, and she told him that in her chest drawer
-she still kept the little wooden shoes he had carved as a present
-for her when he was a boy. And that was their parting.
-After Ib was confirmed, he remained in his mother's
-house, for he had become a clever shoemaker, and in the summer he
-took care of the little field. He worked alone, for his father
-had died, and his mother kept no farm hand.
-It was only seldom that he heard of Christine from some
-passing rider or eel fisherman. But he knew she was doing very
-well at the rich innkeeper's; and after her confirmation she
-wrote to her father and sent greetings to Ib and his mother. In
-the letter Christine wrote of six new linen garments and a lovely
-new dress that her employer and his wife had given her as a
-present. That was certainly good news.
-One beautiful day, the following spring, there was a
-knock on Ib's and his mother's door, and there stood the boatman
-with Christine. She had come over for a day's visit in the next
-village, and she had taken the opportunity of seeing her friends
-again. She looked as lovely as a fine lady, and she wore a pretty
-dress that had been carefully sewn expressly for her. There she
-stood, in grand array, and Ib was in his working clothes. He
-could not stammer a word; he seized her hand and in his delight
-held it fast in his own, but he could not make his tongue obey
-him. But Christine was not embarrassed; she talked and talked,
-and kissed Ib right on his mouth.
+Several years passed, and Ib was to be confirmed. To prepare for it he studied with the clergyman far off in the next village. It was at this time that the boatman came one day to visit Ib's parents and told them that little Christine was going to work as a servant girl and that she had been really fortunate in getting an unusually good position with very worthy people, for, just imagine, she was going to the rich innkeeper's at Herning, west of there. There she was to help the housekeeper, and later, if she did well and was confirmed there, the people would adopt her as their own daughter.
+So Ib and Christine parted. People were calling them "the sweethearts," and before she left she showed Ib that she still had the two nuts he had given her during their adventure in the forest so long ago, and she told him that in her chest drawer she still kept the little wooden shoes he had carved as a present for her when he was a boy. And that was their parting.
+After Ib was confirmed, he remained in his mother's house, for he had become a clever shoemaker, and in the summer he took care of the little field. He worked alone, for his father had died, and his mother kept no farm hand.
+It was only seldom that he heard of Christine from some passing rider or eel fisherman. But he knew she was doing very well at the rich innkeeper's; and after her confirmation she wrote to her father and sent greetings to Ib and his mother. In the letter Christine wrote of six new linen garments and a lovely new dress that her employer and his wife had given her as a present. That was certainly good news.
+One beautiful day, the following spring, there was a knock on Ib's and his mother's door, and there stood the boatman with Christine. She had come over for a day's visit in the next village, and she had taken the opportunity of seeing her friends again. She looked as lovely as a fine lady, and she wore a pretty dress that had been carefully sewn expressly for her. There she stood, in grand array, and Ib was in his working clothes. He could not stammer a word; he seized her hand and in his delight held it fast in his own, but he could not make his tongue obey him. But Christine was not embarrassed; she talked and talked, and kissed Ib right on his mouth.
 "Didn't you know me again, Ib?" she said.
-Even later, when they were left by themselves, and he
-was still holding her hand in his, he could only say, "You look
-like a real lady, and I'm so rough and clumsy! How often I have
-thought of you, Christine, and the old times!"
-Arm in arm, they wandered up the ridge and gazed across
-the Gudenaa toward Seishede with its great hills rich with
-heather. Ib didn't speak, but by the time they parted it was
-clear to him that Christine must become his wife. Had they not,
-even in their childhood, been called " "sweethearts"? To him
-they were really engaged to each other, though neither had spoken
-a word on that subject.
-They had only a few more hours together before
-Christine had to return to the next village, whence the carriage
-would start early the next morning for home. Her father and Ib
-went with her through the clear moonlit evening as far as the
-village. When they reached it, Ib still held the girl's hand in
-his own, for he could not bear to let her go. His eyes were
-bright, but the words came haltingly from his lips. Yet every
-word came from the depths of his heart.
-"If you haven't become too grand, Christine, and if you
-can make up your mind to live in my mother's house as my wife, we
-can be married someday! But we can wait awhile yet."
-"Yes, lets wait for a little while, Ib," she said as
-she squeezed his hand; and he kissed her mouth. "I trust you,
-Ib," said Christine, "and I believe I care for you, but let me
-sleep on it."
-And so they parted. On the way home Ib told Christine's
-father that they were as good as engaged, and the boatman
-declared he had always expected that would happen. He went home
-with Ib and remained that night in the young man's house, but
-nothing further was said about the engagement.
-A year passed by, during which two letters were
-exchanged between Ib and Christine. The signature was prefaced by
-the words, "Faithful till death." But one day the boatman came to
-Ib's house, bringing him a greeting from Christine. He found it
-difficult to deliver the rest of his message, but it was to the
-effect that Christine was doing very well, that she had become a
-pretty girl, respected and well liked. And the innkeeper's son,
-who was employed in the office of a large business in Copenhagen,
-had been home on a visit; he was much attracted to Christine, and
-she liked him. His parents were ready to give their consent, but
-Christine was very anxious to keep Ib's good opinion, "and so she
-has thought of refusing this good fortune," the boatman
-concluded.
-Ib turned as white as a sheet, and at first said
-nothing, but shook his head slightly. At last he said. "Christine
-mustn't refuse this good fortune."
-"Then write a few words to her yourself," said her
-father.
-Ib sat down to write, but he couldn't put the words
-together the way he wanted to. He crossed out and tore up one
-letter after another - not until next morning was a letter ready
-to be sent to Christine, and here it is:
-I read the letter you sent your father, and understand
-from it that you are prospering in every way and that there is a
-chance of still higher fortune for you. Ask your heart,
-Christine, and think carefully about your future. If you marry
-me, I have very little to give you. Do not think of me or my
-future; think of what is best for you. You are bound to me by no
-promise, but if in your heart you think you have given me one, I
-release you from it. May all the treasures of happiness be yours,
-little Christine. Our Lord will comfort my heart.
-
-Always your sincere friend,
-
- 
- IB
+Even later, when they were left by themselves, and he was still holding her hand in his, he could only say, "You look like a real lady, and I'm so rough and clumsy! How often I have thought of you, Christine, and the old times!"
+Arm in arm, they wandered up the ridge and gazed across the Gudenaa toward Seishede with its great hills rich with heather. Ib didn't speak, but by the time they parted it was clear to him that Christine must become his wife. Had they not, even in their childhood, been called " "sweethearts"? To him they were really engaged to each other, though neither had spoken a word on that subject.
+They had only a few more hours together before Christine had to return to the next village, whence the carriage would start early the next morning for home. Her father and Ib went with her through the clear moonlit evening as far as the village. When they reached it, Ib still held the girl's hand in his own, for he could not bear to let her go. His eyes were bright, but the words came haltingly from his lips. Yet every word came from the depths of his heart.
+"If you haven't become too grand, Christine, and if you can make up your mind to live in my mother's house as my wife, we can be married someday! But we can wait awhile yet."
+"Yes, lets wait for a little while, Ib," she said as she squeezed his hand; and he kissed her mouth. "I trust you, Ib," said Christine, "and I believe I care for you, but let me sleep on it."
+And so they parted. On the way home Ib told Christine's father that they were as good as engaged, and the boatman declared he had always expected that would happen. He went home with Ib and remained that night in the young man's house, but nothing further was said about the engagement.
+A year passed by, during which two letters were exchanged between Ib and Christine. The signature was prefaced by the words, "Faithful till death." But one day the boatman came to Ib's house, bringing him a greeting from Christine. He found it difficult to deliver the rest of his message, but it was to the effect that Christine was doing very well, that she had become a pretty girl, respected and well liked. And the innkeeper's son, who was employed in the office of a large business in Copenhagen, had been home on a visit; he was much attracted to Christine, and she liked him. His parents were ready to give their consent, but Christine was very anxious to keep Ib's good opinion, "and so she has thought of refusing this good fortune," the boatman concluded.
+Ib turned as white as a sheet, and at first said nothing, but shook his head slightly. At last he said. "Christine mustn't refuse this good fortune."
+"Then write a few words to her yourself," said her father.
+Ib sat down to write, but he couldn't put the words together the way he wanted to. He crossed out and tore up one letter after another - not until next morning was a letter ready to be sent to Christine, and here it is:
+I read the letter you sent your father, and understand from it that you are prospering in every way and that there is a chance of still higher fortune for you. Ask your heart, Christine, and think carefully about your future. If you marry me, I have very little to give you. Do not think of me or my future; think of what is best for you. You are bound to me by no promise, but if in your heart you think you have given me one, I release you from it. May all the treasures of happiness be yours, little Christine. Our Lord will comfort my heart.
+ Always your sincere friend,
+    IB
 And the letter was sent, and Christine received it.
-That November her banns were published in the church on
-the heath, as well as in Copenhagen, where her bridegroom lived.
-Since various business affairs prevented the bridegroom from
-making the journey into Jutland, she went to Copenhagen, escorted
-by her future mother-in-law. On the way she met her father in the
-little village of Funder, which was close to her father's home,
-and which she had to pass through, and there they took leave of
-each other.
-Word of this came back to Ib, but he made no mention of
-it; his mother noticed that he had grown very silent of late.
-Indeed, he had become very thoughtful, and there came into his
-mind again the thought of the three nuts that the gypsy woman had
-given him when he was a child, two of which he had given to
-Christine. Yes, it all seemed to be coming out that way - they
-were indeed wishing nuts, and in one of them was a golden
-carriage with two horses, and in the other beautiful clothes.
-These luxuries would now be Christine's in Copenhagen, so her
-part had come true. But his own nut had offered only black earth.
-The gypsy had said this was "the best thing of all for him." And
-that was right, too; that also was coming true. The black earth
-was indeed the best for him. At last he understood clearly the
-old woman's meaning. In the black earth, in the dark grave, would
-be the only happiness for him.
-Again the years rolled by - not many, but they seemed
-long years to Ib. The old innkeeper and his wife died, one
-shortly after the other, and their entire property, amounting to
-many thousands of dollars, came to their son. Yes, now Christine
-could have the golden carriage and beautiful clothes.
-For the next long two years there was no letter from
-Christine, and when her father finally heard from her she was not
-writing in prosperity or joy, by any means. Poor Christine!
-Neither she nor her husband had known how to hold onto their
-wealth; since they had not worked for it, it seemed to bring no
-blessing with it.
-Again the heather bloomed and faded. For many winters
-the snow had swept across Seishede and over the ridge beneath
-which Ib lived, sheltered from the winds.
-When the spring sun shone again Ib guided his plow
-across the field, and one day it struck against something that
-seemed to be a firestone. A piece like a big black wood shaving
-came out of the ground, but when Ib examined it he found it was a
-piece of metal. And where the plow blade had cut into it, the
-stone gleamed brightly with ore. He had found a big, heavy, golden bracelet of ancient workmanship. For he had
-disturbed a viking's grave and discovered the costly treasure
-that had been buried in it. Ib showed his find to the clergyman,
-who explained to him how valuable it was and sent him to the
-District Judge. The latter in turn reported the discovery to the
-curator of the museum in Copenhagen and recommended that Ib take
-the treasure there in person.
-"You have found in the earth the best thing you could
-have found!" said the District Judge.
-"The best thing," thought Ib. "The very best thing for
-me - and in the earth! Then, if that is the best, the gypsy woman
-was right."
-So Ib took the ferryboat from Aarhus to Copenhagen; it
-was like an ocean voyage to him, for he had only sailed over the
-Gudenaa before this.
-In Copenhagen he received the value of the gold he had
-found, and it was a large sum - six hundred dollars. And then Ib
-of the heath near Seishede wandered about in the great and
-intricate capital.
-On the evening before the day when he was to return
-with the captain to Aarhus, Ib got lost in the streets, went in
-quite a different direction than he intended to go, and then
-found himself in Christianshavn instead of Vesterport. There was
-not a human being to be seen on the street.
-At last a very little girl emerged from one of the
-wretched houses. When Ib inquired of her the way to the street he
-was seeking, she only looked shyly at him, then began to cry
-bitterly. He asked her what was the matter, but could not
-understand her reply. But as they went along the street together
-they passed beneath a lamp, and when the light fell on the
-child's face he felt a strange emotion come over him, for it was
-exactly as if little Christine stood before him, just as he
-remembered her from the days when they both were children!
-He followed the little girl into the wretched house and
-climbed the narrow, tumbledown staircase, which led to a tiny
-attic room high up under the roof. The air in this room was heavy
-and almost suffocating; no light burned; but from one corner came
-a heavy sighing and moaning. Ib struck a match. On a miserable
-bed lay the child's mother.
-"Can I help you in any way?" said Ib. "This little girl
-has brought me up here, but I'm a stranger in the city. Haven't
-you any neighbors or friends I could call in to help you?" Then
-he raised her head.
+That November her banns were published in the church on the heath, as well as in Copenhagen, where her bridegroom lived. Since various business affairs prevented the bridegroom from making the journey into Jutland, she went to Copenhagen, escorted by her future mother-in-law. On the way she met her father in the little village of Funder, which was close to her father's home, and which she had to pass through, and there they took leave of each other.
+Word of this came back to Ib, but he made no mention of it; his mother noticed that he had grown very silent of late. Indeed, he had become very thoughtful, and there came into his mind again the thought of the three nuts that the gypsy woman had given him when he was a child, two of which he had given to Christine. Yes, it all seemed to be coming out that way - they were indeed wishing nuts, and in one of them was a golden carriage with two horses, and in the other beautiful clothes. These luxuries would now be Christine's in Copenhagen, so her part had come true. But his own nut had offered only black earth. The gypsy had said this was "the best thing of all for him." And that was right, too; that also was coming true. The black earth was indeed the best for him. At last he understood clearly the old woman's meaning. In the black earth, in the dark grave, would be the only happiness for him.
+Again the years rolled by - not many, but they seemed long years to Ib. The old innkeeper and his wife died, one shortly after the other, and their entire property, amounting to many thousands of dollars, came to their son. Yes, now Christine could have the golden carriage and beautiful clothes.
+For the next long two years there was no letter from Christine, and when her father finally heard from her she was not writing in prosperity or joy, by any means. Poor Christine! Neither she nor her husband had known how to hold onto their wealth; since they had not worked for it, it seemed to bring no blessing with it.
+Again the heather bloomed and faded. For many winters the snow had swept across Seishede and over the ridge beneath which Ib lived, sheltered from the winds.
+When the spring sun shone again Ib guided his plow across the field, and one day it struck against something that seemed to be a firestone. A piece like a big black wood shaving came out of the ground, but when Ib examined it he found it was a piece of metal. And where the plow blade had cut into it, the stone gleamed brightly with ore. He had found a big, heavy, golden bracelet of ancient workmanship. For he had disturbed a viking's grave and discovered the costly treasure that had been buried in it. Ib showed his find to the clergyman, who explained to him how valuable it was and sent him to the District Judge. The latter in turn reported the discovery to the curator of the museum in Copenhagen and recommended that Ib take the treasure there in person.
+"You have found in the earth the best thing you could have found!" said the District Judge.
+"The best thing," thought Ib. "The very best thing for me - and in the earth! Then, if that is the best, the gypsy woman was right."
+So Ib took the ferryboat from Aarhus to Copenhagen; it was like an ocean voyage to him, for he had only sailed over the Gudenaa before this.
+In Copenhagen he received the value of the gold he had found, and it was a large sum - six hundred dollars. And then Ib of the heath near Seishede wandered about in the great and intricate capital.
+On the evening before the day when he was to return with the captain to Aarhus, Ib got lost in the streets, went in quite a different direction than he intended to go, and then found himself in Christianshavn instead of Vesterport. There was not a human being to be seen on the street.
+At last a very little girl emerged from one of the wretched houses. When Ib inquired of her the way to the street he was seeking, she only looked shyly at him, then began to cry bitterly. He asked her what was the matter, but could not understand her reply. But as they went along the street together they passed beneath a lamp, and when the light fell on the child's face he felt a strange emotion come over him, for it was exactly as if little Christine stood before him, just as he remembered her from the days when they both were children!
+He followed the little girl into the wretched house and climbed the narrow, tumbledown staircase, which led to a tiny attic room high up under the roof. The air in this room was heavy and almost suffocating; no light burned; but from one corner came a heavy sighing and moaning. Ib struck a match. On a miserable bed lay the child's mother.
+"Can I help you in any way?" said Ib. "This little girl has brought me up here, but I'm a stranger in the city. Haven't you any neighbors or friends I could call in to help you?" Then he raised her head.
 It was Christine from Seishede!
-For years her name had not been mentioned there, for it
-would have disturbed Ib's peace of mind, and the rumors and the
-truth about her had all been unhappy. All the money her husband
-had inherited from his parents had made him proud and arrogant.
-He had given up his good position, had traveled for half a year
-in foreign lands, and on his return had gone heavily into debt
-and still lived in an expensive manner. The coach had leaned over
-had leaned over more and more, so to speak, until at last it
-turned over completely. The many merry companions he had
-entertained declared it served him right, for he had kept his
-house like a madman. And so one morning his corpse was found in a
-canal.
-The icy hand of death was already on Christine. Her
-youngest child, expected in prosperity but born in misery only a
-few weeks ago, was already in its grave, and Christine was close
-to it herself. She lay forsaken, sick unto death, in a miserable
-room, amid poverty which she might have endured in her younger
-days at Seishede, but which now, accustomed as she had been to
-better things, she felt most painfully. It was her eldest child,
-also a little Christine, and sharing her hunger and poverty, whom
-Ib had now brought home.¨
-"I am tormented at the thought of dying and leaving the
-poor child alone!" she sighed. "Ah, what is to become of the poor
-little thing!" And not a word more could she speak.
-Ib took another match and lit a piece of candle he
-found in the room, and the flame illuminated the pitiful
-dwelling. Then he looked at the little girl and remembered how
-Christine had looked when she was that age, and he felt that for
-her sake he would love this child, which was still a stranger to
-him. The dying woman gazed at him, and her eyes opened wider and
-wider; did she recognize him? He was never to know, for no
-further word passed her lips.
-In the forest by the Gudenaa, near Seishede, the air
-was thick and dark, and there were no blossoms on the heath
-plant. The autumn winds whirled the yellow leaves from the wood
-into the stream or out over the heath toward the boatman's hut,
-where strangers lived now. But beneath the ridge, safe beneath
-the protection of the large trees, stood the little farmhouse,
-neatly painted and whitewashed, and within it the turf blazed up
-cheerfully in the chimney. Inside was sunlight, the beaming
-sunlight of a child's two bright eyes; and the singing of the
-larks sounded in the words that came from the little Christine's
-rosy, laughing lips. She sat on Ib's knee, and Ib was both father
-and mother to her, for her own parents were dead and had vanished
-from her mind as a dream vanishes alike from the mind of a child
-or a grown man. Ib lived in the neat, pretty house, for he was a
-prosperous man now, while the little girl's mother rested in the
-churchyard for the poor in Copenhagen.
-Ib had money, said people, gold from out of the black
-earth, and he had his little Christine, too.
+For years her name had not been mentioned there, for it would have disturbed Ib's peace of mind, and the rumors and the truth about her had all been unhappy. All the money her husband had inherited from his parents had made him proud and arrogant. He had given up his good position, had traveled for half a year in foreign lands, and on his return had gone heavily into debt and still lived in an expensive manner. The coach had leaned over had leaned over more and more, so to speak, until at last it turned over completely. The many merry companions he had entertained declared it served him right, for he had kept his house like a madman. And so one morning his corpse was found in a canal.
+The icy hand of death was already on Christine. Her youngest child, expected in prosperity but born in misery only a few weeks ago, was already in its grave, and Christine was close to it herself. She lay forsaken, sick unto death, in a miserable room, amid poverty which she might have endured in her younger days at Seishede, but which now, accustomed as she had been to better things, she felt most painfully. It was her eldest child, also a little Christine, and sharing her hunger and poverty, whom Ib had now brought home.¨
+"I am tormented at the thought of dying and leaving the poor child alone!" she sighed. "Ah, what is to become of the poor little thing!" And not a word more could she speak.
+Ib took another match and lit a piece of candle he found in the room, and the flame illuminated the pitiful dwelling. Then he looked at the little girl and remembered how Christine had looked when she was that age, and he felt that for her sake he would love this child, which was still a stranger to him. The dying woman gazed at him, and her eyes opened wider and wider; did she recognize him? He was never to know, for no further word passed her lips.
+In the forest by the Gudenaa, near Seishede, the air was thick and dark, and there were no blossoms on the heath plant. The autumn winds whirled the yellow leaves from the wood into the stream or out over the heath toward the boatman's hut, where strangers lived now. But beneath the ridge, safe beneath the protection of the large trees, stood the little farmhouse, neatly painted and whitewashed, and within it the turf blazed up cheerfully in the chimney. Inside was sunlight, the beaming sunlight of a child's two bright eyes; and the singing of the larks sounded in the words that came from the little Christine's rosy, laughing lips. She sat on Ib's knee, and Ib was both father and mother to her, for her own parents were dead and had vanished from her mind as a dream vanishes alike from the mind of a child or a grown man. Ib lived in the neat, pretty house, for he was a prosperous man now, while the little girl's mother rested in the churchyard for the poor in Copenhagen.
+Ib had money, said people, gold from out of the black earth, and he had his little Christine, too.
