@@ -1,0 +1,9 @@
+Ayden Janssen
+Jonas Walliser
+Shiyao Zhang
+
+We annotated five fairy tales by Grimm and six fairy tales by Andersen. This gives us roughly 100 annotated characters in total. Each fairy tale was annotated by two people separately.
+
+The kappa statistic was computed for each attribute separately. Our attributes are entity (BIO annotation), name (free value) and alignment (good, neutral or bad), with each word being annotated. A word with no entity (O) was annotated with the name and alignment X. The name attribute is problematic when computing the expected agreement, as it does not have fixed values which you can choose from. To calculate the kappa, the values that are found within the annotations are taken as the domain of the attribute values.
+
+We computed the kappa statistic with the cohen_kappa_score by sklearn. We then get a kappa of 0.761 for the entity attribute, 0.604 for the name, and 0.62 for the alignment.
